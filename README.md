@@ -3,7 +3,7 @@ A simple diary written in Python
 Ability to add memories, specify good or bad memories, change memories
 ## The library used in this program
 sys
-### Versions available
+### Vlanguages available
 Persian and English languages
 #### how to run
 Run the .py file
@@ -18,7 +18,7 @@ https://github.com/powerful392
 امکان اضافه کردن خاطرات، مشخص کردن خوب یا بد بودن خاطرات، تغییر خاطرات
 ## کتابخانه ای که توی این برنامه استفاده شده
 sys
-### نسخه های در دسترس
+### زبانهای در دسترس
 زبانهای فارسی و انگلیسی
 #### نحوه اجرا
 اجرای فایل .py
