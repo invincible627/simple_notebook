@@ -8,9 +8,9 @@ Persian and English languages
 #### how to run
 Run the .py file
 ##### The creator of this program
-powerful392
+invincible627
 ###### GitHub profile link
-https://github.com/powerful392
+https://github.com/invincible627
 
 
 # دفترچه ی ساده
@@ -23,6 +23,6 @@ sys
 #### نحوه اجرا
 اجرای فایل .py
 ##### سازنده ی این برنامه
-powerful392
+invincible627
 ###### لینک پروفایل گیتهاب
-https://github.com/powerful392
+https://github.com/invincible627
